@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto simples que mostra os jogos do Brasil durante a fase de grupos na Copa do Mundo de 2022.
+O Calendário da Copa é um projeto simples que mostra os jogos do Brasil durante a fase de grupos na Copa do Mundo de 2022. Durante a semana do evento NLW #10 promovido pela Rocketseat, pude ter o meu primeiro contato com a programação e entender um pouco sobre como funciona o Front-end. Para isso, foram apresentados diversos conceitos e suas aplicações práticas a partir do uso de tecnologias como HTML e CSS para criação e estilização de um website, Javascript para automação e dinamismo de informações e Git para a criação de um portfólio.
 
 ## 🔖 Layout
 
