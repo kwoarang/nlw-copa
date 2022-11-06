@@ -37,7 +37,7 @@ O Calendário da Copa é um projeto simples que mostra os jogos do Brasil durant
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/zsV7OmlNpDlF3TsIvUTnbl/Calend%C3%A1rio-de-Jogos-(Community)/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## Licença
+## :meme: Licença
 
 Esse projeto está sob a licença MIT.
 
